@@ -6,7 +6,11 @@ React
 
 Features
 Display of Nike products
+
 Responsive design for mobile and desktop views
+
 Navigation menu with product categories
+
 Product detail pages 
+
 Shopping cart 
